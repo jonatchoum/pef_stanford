@@ -1,0 +1,5 @@
+*.pdf
+.venv/*
+Streaming - Copy (2).ipynb
+Streaming - Copy (3).ipynb
+pef_venv/
